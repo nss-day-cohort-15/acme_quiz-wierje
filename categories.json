@@ -1,0 +1,18 @@
+{
+    "categories": [
+        {
+            "id": 0,
+            "name": "Select"
+        },
+
+        {
+            "id": 1,
+            "name": "Demolition"
+        } ,
+
+        {
+            "id": 2,
+            "name": "Fireworks"
+        }
+    ]
+}
